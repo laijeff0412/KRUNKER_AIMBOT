@@ -1,0 +1,5 @@
+names:
+- enemy
+nc: 1
+train: wandb-artifact://custom_yolov5\train
+val: wandb-artifact://custom_yolov5\val
